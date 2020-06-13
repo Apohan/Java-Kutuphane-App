@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"anaSayfa"},{"p":"<Unnamed>","l":"fonksiyonum"},{"p":"<Unnamed>","l":"giris"},{"p":"<Unnamed>","l":"tumKitapGoster"},{"p":"<Unnamed>","l":"veritabaniBaglanti"},{"p":"<Unnamed>","l":"yeniKayit"}]
